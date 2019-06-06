@@ -23,6 +23,9 @@ Start randomuris with a letter then proceed with random letters and numbers as e
 Fix issue with cred-popper and keylogger using same variable and conflicting
 Add SCF files to the opsec command
 Add posh commands on bash for abstracting the use of pipenv and set up the env in the install script.
+Standardise all dates to dd/MM/yyyy
+Improve implant label type in the ImplantHandler to show language (PS/PY/C#)
+in addition to if Daisy (;D) or Proxy (;P)
 
 4.8 (13/02/19)
 ==============
